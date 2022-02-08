@@ -1,0 +1,10 @@
+{
+  "name": "insomnia-plugin-faker-qa-infracommerce",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "faker-qa-infracommerce",
+    "description": "Plugin criado por Rose Dias para dados faker Infracommerce."
+  },
+  "main": "main.js"
+}
